@@ -1,0 +1,15 @@
+---
+title: "&nbsp;"
+  
+format: 
+  html:
+    title-block-banner: true
+    include-before-body: [hero-navbar-img.html, target_blank.html]
+---
+
+# Travels
+
+From January to June of 1998 I was in New Zealand, at the [University of Waikato](https://www.waikato.ac.nz/int/study/subjects/economics/); I also spent five weeks at the Centre for Resource and Environmental Studies (which has since been folded into the [Fenner School of Environment and Society](https://fennerschool.anu.edu.au), at the Australia National University. In the Fall of 2003, I was a Visiting Fellow at Cambridge University, in [Clare Hall](https://www.clarehall.cam.ac.uk); I am now a life member of Clare Hall.  I spent the Spring of 2004 at the University of California in Davis, where I taught in the [Department of Agricultural and Resource Economics](https://are.ucdavis.edu).
+
+During the Fall of 2008 I spent two months at the [Smith School of Enterprise and the Environment](https://www.smithschool.ox.ac.uk) at the University of Oxford, as a Visiting Research Fellow.  I enjoyed the experience so much I went back during the summers of 2009 through 2011.  During Fall 2012 I was a Visiting Scholar at the [Oxford Centre for the Analysis of Resource Rich Economies](https://www.economics.ox.ac.uk/oxford-centre-for-the-analysis-of-resource-rich-economies-oxcarre), part of the Department of Economics at the University of Oxford, where I am External Research Associate.  I was a visiting scholar as part of the E3 program (Environmental and Energy Economics), as part of the University of California (Santa Barbara), in January and February of 2013. From March to May of 2013 I was a visiting scholar at the prestigious [Fondazione Eni Enrico Mattei](https://www.feem.it), in Venice. I spent June at the [Toulouse School of Economics](https://www.tse-fr.eu).  In December 2013 I was a visiting researcher at the [CESifo](https://www.ifo.de/en/cesifo/cesifo-homepage) group in Munich Germany.  During 2014 and 2015 I was a Visiting Professor at the [Grantham Institute](https://www.lse.ac.uk/granthaminstitute/) (part of the London School of Economics) and with the [Environmental Economics](https://www.sdu.dk/en/om-sdu/institutter-centre/institut-erhverv-baeredygtighed) group at the University of Southern Denmark. In June 2016 I was a visiting scholar in the [Department of Economics](https://www.bath.ac.uk/departments/department-of-economics/) at the University of Bath.  
+

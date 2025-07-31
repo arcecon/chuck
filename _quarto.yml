@@ -1,0 +1,30 @@
+project: 
+  type: website
+  output-dir: "." 
+
+website:
+  title: "Chuck Mason"
+  navbar:
+    background: white
+    search: false
+    pinned: true
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Travels
+        href: travels.qmd
+      - text: Kiwi Adventures
+        href: kiwi_adventures.qmd
+            
+  page-footer: 
+    center: "Powered with GitHub and Quarto<br>© Chuck Mason, 2025"
+
+format:
+  html:
+    theme: flatly
+    mainfont: system-ui; 
+    highlight-style: atom-one  # atom-one espresso
+    css: styles.css
+    toc: false
+    include-after-body: target_blank.html
+

@@ -1,0 +1,121 @@
+---
+title: ""
+  
+format: 
+  html:
+    title-block-banner: true
+    include-in-header: hide-navbar-inline.html
+    include-before-body: hero-navbar.html
+---
+
+<div class="page-index">
+
+
+:::: {.columns}
+
+::: {.column width="45%"}
+![](uploads/1/2/4/5/124536544/published/cfmason.jpg)
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="50%"}
+
+## A little bit about me:
+
+I have a long-standing interest in Resource Economics. Some of the topics I have conducted research on include issues regarding exploration for and extraction of non-renewable resources, and issues regarding common-property resources, particularly those that are renewable. I have also conducted a number of analyses that apply experimental economics techniques to theoretical issues in Industrial Organization.
+
+<a href="travels.html" class="cta-button">LEARN MORE</a>
+
+:::
+
+::::
+
+
+## Here is a list of recent working papers:
+
+- **Whose Frac is It, Anyway? Using Sources of Productivity Gains to Explain Industrial Organization in Oilfield Services** [pdf file](uploads/1/2/4/5/124536544/whosefrack.pdf)  
+  We analyze the the relative roles played by sellers and buyers of frac jobs on experimentation, innovation, and diffusion of knowledge about hydraulic fracturing. An historically-concentrated sector has experienced substantial entry and erosion due to vertical integration by buyers. This changing industrial organization affects and is affected by the changing relative technical proficiency of service companies and their operator clients. We document how a proxy for the technical prowess of the oilfield service sector has changed substantially over time, consistent with weakening. It is not clear from the evidence brought to bear what the direction of causation is.
+
+- **Why do Firms Hold Oil Stockpiles?** [pdf file](uploads/1/2/4/5/124536544/oil_inventories.pdf)   
+  Persistent and significant privately-held stockpiles of crude oil have long been an important empirical regularity in the United States. Such stockpiles would not rationally be held in a traditional Hotelling-style model. How then can the existence of these inventories be explained? In the presence of sufficiently stochastic prices, oil extracting firms have an incentive to hold inventories to smooth production over time. An alternative explanation is related to a speculative motive - firms hold stockpiles intending to cash in on periods of particularly high prices. I argue that empirical evidence supports the former but not the latter explanation.
+
+- **Jumping Beans: Implications of Fat Tails in International Soybean Markets** [pdf file](uploads/1/2/4/5/124536544/Soybean-jump_v2.pdf)  
+  Economies are increasingly adopting renewable energy certificates as a policy mechanism to support the transition away from reliance on fossil fuels. We investigate the price of solar renewable energy certificates (SRECs) in New Jersey, allowing for the potential presence of jumps and time-varying volatility. We find that both features play an important role in the stochastic process describing SREC price returns. We also simulate the implied probability that at least one jump would occur in any given month. These implied probabilities indicate that jumps played a consistently important role in both SRECs and electricity prices. Jumps in SRECs appear to have been particularly noteworthy between late 2011 and early 2013, a period when electricity prices in New Jersey were relatively high. This result hints at the potentially important role of market structure in driving fat tails in price returns.
+
+- **On the Interaction of Eco-Labeling and Trade** [pdf file](uploads/1/2/4/5/124536544/Labeling_Trade.pdf)   
+  While environmental certification can provide useful information to consumers, there is concern that it indirectly erects trade barriers.  I construct a two-country model where some firms use an environmentally-unfriendly (brown) production technology in each country, while other firms use environmentally-friendly (green) techniques.  There are two green techniques, one in each country.  Obtaining the eco-label entails certification costs; green firms in the exporting country must bear an additional cost to obtain the eco-label.  I discuss the impact of eco-labeling on the quantities of green goods produced in each country and resultant welfare impacts, and the impact of changes in labeling costs.
+
+
+- **Volatility in Solar Renewable Energy Certificates: Jumps and Fat Tails** [pdf file](uploads/1/2/4/5/124536544/SolarJumpSREC_Oct2024.pdf)  
+  Economies are increasingly adopting renewable energy certificates as a policy mechanism to support the transition away from reliance on fossil fuels. We investigate the price of solar renewable energy certificates (SRECs) in New Jersey, allowing for the potential presence of jumps and time-varying volatility. We find that both features play an important role in the stochastic process describing SREC price returns. We also simulate the implied probability that at least one jump would occur in any given month. These implied probabilities indicate that jumps played a consistently important role in both SRECs and electricity prices. Jumps in SRECs appear to have been particularly noteworthy between late 2011 and early 2013, a period when electricity prices in New Jersey were relatively high. This result hints at the potentially important role of market structure in driving fat tails in price returns.
+
+- **The Transition to Renewable Energy** [pdf file](uploads/1/2/4/5/124536544/JAERE_v5.pdf)   
+  The existing economics literature neglects the important role of capacity in the production of renewable energy. To fill this gap, we construct a model in which renewable energy production is tied to renewable energy capacity, which then becomes a form of capital. This capacity capital can be increased through investment, which therefore comes at the cost of reduced consumption. We describe how society could optimally elect to split production between immediate consumption and investment in the two forms of capital. Our model delivers an empirically satisfactory explanation for simultaneous use of non-renewable and renewable energy. While transitioning to renewable energy can often ensure perennially increasing utility, there are combinations of initial levels of the non-renewable resource and renewable capacity that can generate Malthusian-like effects, with utility declining at some point in time.
+
+- **Analyzing the Risk of Transporting Crude Oil by Rail** [pdf file](uploads/1/2/4/5/124536544/Oil_by_Rail.pdf)  
+  In this paper, I combine data on incidents associated with rail transportation of crude oil and detailed data on rail shipments to appraise the relation between increased use of rail to transport crude oil and the risk of safety incidents associated with those shipments. I find a positive link between the accumulation of minor incidents and the frequency of serious incidents, and a positive relation between increased rail shipments of crude oil and the occurrence of minor incidents. I also find that increased shipments are associated with a rightward shift in the distribution of economic damages associated with these shipments; the implied marginal impact of an additional 1,000 rail cars carrying oil between two states in a given month is $1,925. In addition, I find larger average effects associated with states that represent the greatest source of tight oil production.
+
+- **Optimal Contracts for Discouraging Deforestation with Risk Averse Agents** [pdf file](uploads/1/2/4/5/124536544/ContractingCarbonOffsets-RAv05.pdf)   
+  As we enter the second decade of the 21st century there is an emerging consensus that carbon emissions must be limited. An attractive approach to promoting carbon reductions, which offers a variety of co-benefits, is to encourage reductions in deforestation. Despite this potential, any strategy geared towards encouraging such reductions must confront a basic problem, stemming from symmetric information: agents that might be induced to reduce their actions which would reduce forests have private information about their opportunity costs. This concern seems particularly likely to apply in situations where there are significant related risks, as agents seem highly likely to differ in their tolerance for risk. In this paper, I investigate a contracting scheme designed to mitigate the asymmetric information problem where agents are heterogeneous in their tolerance for risk.
+
+
+
+## Professional Activities
+
+I was the Managing Editor of the [Journal of Environmental Economics and Management](https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management) from 2006 to 2011, and a Co-Editor for the [Journal of the Association of Environmental and Resource Economists](https://www.journals.uchicago.edu/toc/jaere/current) from 2014 to 2016. I am currently Editor-in-Chief for [Economics of Energy and Environmental Policy](https://www.iaee.org/en/publications/eeepscope.aspx) and Joint Editor-in-Chief for [Strategic Behavior and the Environment](https://www.nowpublishers.com/SBE). I am also a University Fellow with [Resources for the Future](http://www.rff.org/). In September 2023 I had the great pleasure to be named a [member of honor](https://faere.fr/en/members/honorary-members/) in the French Association of Environmental and Resource Economists. 
+
+From May 2014 to January 2015 I was involved in the U.S. Department of Justice's case related to the Deepwater Horizon oil spill, which culminated in my [testimony](https://www.nola.com/news/business/bp-oil-spill-rippled-through-fabric-of-gulf-coast-economy-witness-testifies/article_c29487ec-ac76-579e-896e-8d0a5895206f.html).
+
+Here is a recent copy of my [CV](uploads/1/2/4/5/124536544/CFMason_CV.pdf).
+
+
+
+## My Professional Travels
+
+From January to June of 1998 I was in New Zealand, at the [University of Waikato](http://www.mngt.waikato.ac.nz/depts/econ/index.asp); I also spent five weeks at the Centre for Resource and Environmental Studies (which apparently has since been folded into the [Fenner School of Environment and Society](https://fennerschool.anu.edu.au), at the Australia National University. In the Fall of 2003, I was a Visiting Fellow at Cambridge University, in [Clare Hall](http://www.clarehall.cam.ac.uk/); I am now a life member of Clare Hall.  I spent the Spring of 2004 at the University of California in Davis, where I taught in the [Department of Agricultural and Resource Economics](http://are.ucdavis.edu/).
+
+During the Fall of 2008 I spent two months at the [Smith School of Enterprise and the Environment](http://www.smithschool.ox.ac.uk/) at the University of Oxford, as a Visiting Research Fellow.  I enjoyed the experience so much I went back during the summers of 2009 through 2011.  During Fall 2012 I was a Visiting Scholar at the [Oxford Centre for the Analysis of Resource Rich Economies](http://www.oxcarre.ox.ac.uk/), part of the Department of Economics at the University of Oxford), where I am External Research Associate.  I was a visiting scholar as part of the E3 program (Environmental and Energy Economics), as part of the University of California (Santa Barbara), in January and February of 2013; from March to May of 2013 I was a visiting scholar at the prestigious [Fondazione Eni Enrico Mattei](http://www.feem.it/), in Venice; and I spent June at the [Toulouse School of Economics](http://www2.toulouse.inra.fr/lerna/index.php?lang=eng).  In December 2013 I was a visiting researcher at the [CESifo](https://www.cesifo-group.de/ifoHome.html) group in Munich Germany.  During 2014 and 2015 I was a Visiting Professor at the [Grantham Institute](http://www.lse.ac.uk/GranthamInstitute/) (part of the London School of Economics) and with the [Environmental Economics](http://www.sdu.dk/en/om_sdu/institutter_centre/i_miljo_og_erhvervsoekonomi) group at the University of Southern Denmark.  In June 2016 I was a visiting scholar in the [Department of Economics](http://www.bath.ac.uk/economics/) at the University of Bath.  
+
+
+
+## Get In Touch.
+
+[bambuzlr at uwyo dot edu](mailto:bambuzlr@uwyo.edu)
+
+<a href="mailto:bambuzlr@uwyo.edu" class="cta-button">CONTACT ME</a>
+
+
+</div>
+
+<style>
+  body.page-index .navbar {
+    display: none !important;
+  }
+</style>
+
+
+<script>
+window.addEventListener('DOMContentLoaded', () => {
+  const heroNavbar = document.getElementById('hero-navbar');
+  const defaultNavbar = document.querySelector('.navbar');
+
+  if (heroNavbar) heroNavbar.style.transform = 'translateY(0)';
+  if (defaultNavbar) defaultNavbar.style.display = 'none';
+});
+
+window.addEventListener('scroll', () => {
+  const heroNavbar = document.getElementById('hero-navbar');
+  const defaultNavbar = document.querySelector('.navbar');
+
+  if (window.scrollY > 50) {
+    if (heroNavbar) heroNavbar.style.transform = 'translateY(-100%)';  // fully hide
+    if (defaultNavbar) defaultNavbar.style.display = 'flex';           // show Quarto nav
+  } else {
+    if (heroNavbar) heroNavbar.style.transform = 'translateY(0)';      // show hero nav
+    if (defaultNavbar) defaultNavbar.style.display = 'none';           // hide Quarto nav
+  }
+});
+</script>

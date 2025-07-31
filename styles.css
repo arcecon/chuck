@@ -1,0 +1,210 @@
+/* css styles */
+
+.nav-title{
+  font-family: fantasy
+}
+
+/* to fix the width of body and navbar with invisible scrollbar */
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+.navbar {
+    height: 75px; /* Adjust the height as needed */
+}
+
+.page-index {
+  padding-top: 240px;
+}
+
+.page-kiwi_adventure {
+  padding-top: 60px;
+}
+
+#hero-navbar .navbar-nav .nav-link {
+  color: white !important;
+  font-weight: 600;
+}
+
+/* Ensure nav-top has same background */
+#hero-navbar .nav-top {
+  background-color: #2791F5;
+}
+
+
+/* Title on second row of nav bar */
+#hero-navbar .nav-title {
+  color: black;
+  font-size: 3.8rem;
+  font-weight: normal;
+  font-family: Calibri;
+  text-align: center;
+  width: 100%;
+  user-select: none;
+
+  /* Flexbox centering */
+  display: flex;
+  justify-content: center;  /* horizontally center text */
+  align-items: center;      /* vertically center text */
+
+  height: 3.5rem;           /* increase height to fit text */
+  margin-top: 0;
+}
+
+
+/* Hide Quarto navbar initially on index page */
+body.page-index .navbar {
+  display: none !important;
+}
+
+
+#hero-navbar {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch; /* allows full width of child */
+  width: 100vw;
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  padding-top: 0.2rem;  /* reduce from 1rem or whatever it is now */
+  padding-bottom: 1rem; /* keep bottom padding if you want */
+  background-color: #2791F5;
+  color: white;
+  z-index: 1050;
+  box-sizing: border-box;
+  height: 240px;
+}
+
+/* Make navbar container full width and flex row */
+#hero-navbar .container-fluid {
+  width: 100% !important;
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: flex-end !important; /* push everything right */
+  align-items: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* Remove margin-left: auto, and force nav items right */
+#hero-navbar .navbar-nav {
+  flex-direction: row !important;
+  margin-left: 0 !important;
+  justify-content: flex-end !important; /* align nav items right */
+  width: auto !important;
+}
+
+/* Make navbar-collapse a flex container */
+#hero-navbar .navbar-collapse {
+  display: flex !important;
+  justify-content: flex-end !important;
+  flex-grow: 0 !important;
+  width: auto !important;
+}
+
+/* Hero Header with background image */
+#hero-header {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  height: 250px;
+  background-image: url("img/default-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  z-index: 1049;
+  /* transition: top 1.5s ease-in-out; */
+}
+
+#hero-header.hide-hero {
+  top: -260px;
+}
+
+/* Shift content down to make space for hero */
+body.page-travels, body.page-kiwi_adventure {
+  padding-top: 260px;
+}
+
+/* Hide default Quarto navbar on page load */
+body.page-travels .navbar,
+body.page-kiwi_adventure .navbar {
+  display: none !important;
+}
+
+.navbar .nav-link.active {
+  border: 2px solid white;       /* white rectangle border */
+  border-radius: 4px;            /* slightly rounded corners */
+  padding: 0.4rem 0.75rem;       /* spacing inside the rectangle */
+}
+
+
+/* Target active nav-link inside the original Quarto navbar */
+nav.navbar .collapse#navbarCollapse ul.navbar-nav li.nav-item > a.nav-link.active {
+  outline: 2px solid grey !important;
+}
+
+
+#hero-navbar {
+  background-size: cover;
+  background-position: center;
+  height: 240px;
+  color: white;
+  padding-top: 1rem;
+}
+
+#hero-navbar .navbar {
+  background: transparent !important;
+}
+
+#hero-navbar .navbar-nav {
+  margin-left: auto; /* pushes menu right */
+}
+
+#hero-navbar .nav-link {
+  color: white !important;
+}
+
+#hero-navbar .nav-link.active {
+  border: 2px solid white;
+  border-radius: 4px;
+  padding: 0.4rem 0.75rem;
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+
+body.page-travels .navbar {
+  display: none !important;
+}
+
+/* Change font for text body */
+body.page-index {
+  font-family: 'Georgia', serif; /* or 'Arial', 'Roboto', etc. */
+  font-size: 0.5rem;
+  line-height: 1.7;
+  color: #222;
+  padding: 1rem 2rem;
+}
+
+/* Make all links black with black underline */
+a {
+  color: black !important;
+  text-decoration: underline;
+  text-decoration-color: black;
+  font-weight: bold;
+}
+
+/* Custom button style for links */
+.cta-button {
+  display: inline-block;
+  background-color: black;
+  color: white !important;
+  font-family: Calibri, sans-serif;
+  font-size: 1.1rem;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #333;
+}
+
